@@ -1,0 +1,10 @@
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\bin\Debug\GameOOP.exe.config
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\bin\Debug\GameOOP.exe
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\bin\Debug\GameOOP.pdb
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.csprojAssemblyReference.cache
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.Purifiers.resources
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.Properties.Resources.resources
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.csproj.GenerateResource.cache
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.csproj.CoreCompileInputs.cache
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.exe
+C:\Users\rafco\OneDrive\Desktop\Lekcii\1  Course\3 Semester\Упражнение__ООП2\Purifiers\GameOOP\obj\Debug\GameOOP.pdb
