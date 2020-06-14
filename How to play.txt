@@ -1,0 +1,10 @@
+Instruction manuals
+
+Arrow keys:
+   Left - left
+   Right - right
+     Down - shield
+
+Spacebar - shoot bullets
+
+Enter - restart game
