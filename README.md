@@ -1,3 +1,5 @@
 # Purifiers
-РАФЕТ-ХАЛИЛ_СОФТУЕРНО-ИНЖЕНЕРСТВО_1курс
-Задача по ООП2 C#
+
+
+C# game based on "Space Invaders"
+using images from StarCraft II.  
